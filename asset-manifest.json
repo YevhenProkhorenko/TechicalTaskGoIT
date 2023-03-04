@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TechicalTaskGoIT/static/css/main.88287191.css",
+    "main.js": "/TechicalTaskGoIT/static/js/main.886b46e4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TechicalTaskGoIT/static/js/787.28cb0dcd.chunk.js",
+    "static/media/BG2.png": "/TechicalTaskGoIT/static/media/BG2.86562350dcaa714a1442.png",
+    "static/media/Logo.svg": "/TechicalTaskGoIT/static/media/Logo.9cd149a488501a5046c99602fa92db10.svg",
+    "index.html": "/TechicalTaskGoIT/index.html",
+    "main.88287191.css.map": "/TechicalTaskGoIT/static/css/main.88287191.css.map",
+    "main.886b46e4.js.map": "/TechicalTaskGoIT/static/js/main.886b46e4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TechicalTaskGoIT/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88287191.css",
+    "static/js/main.886b46e4.js"
+  ]
+}
