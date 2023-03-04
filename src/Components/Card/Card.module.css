@@ -1,0 +1,95 @@
+p {
+  margin: 0;
+}
+.Wrapper {
+  width: 380px;
+  height: 460px;
+  padding-top: 28px;
+  border-radius: 20px;
+  position: absolute;
+  background: linear-gradient(
+    114.99deg,
+    #471ca9 -0.99%,
+    #5736a3 54.28%,
+    #4b2a99 64%
+  );
+}
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Chat {
+  display: block;
+  width: 308px;
+  height: 168px;
+  margin-left: 36px;
+  position: relative;
+  top: -15px;
+  background-image: url("/src/Images/BG2.png"),
+    linear-gradient(114.99deg, #471ca9 -0.99%, #5736a3 54.28%, #4b2a99 78.99%);
+}
+.Logo {
+  width: 76px;
+  height: 22px;
+  position: absolute;
+  z-index: 2;
+  opacity: 20%;
+}
+.cardLine {
+  margin-bottom: 62px;
+}
+.ellipseWrapper {
+  position: absolute;
+  left: 40%;
+  bottom: 45%;
+}
+.ellipseImage {
+  width: 80px;
+  height: 80px;
+}
+.userWrapper {
+  position: absolute;
+  left: 43.5%;
+  bottom: 48.7%;
+}
+.userPhoto {
+  background: linear-gradient(
+    114.99deg,
+    #471ca9 -0.99%,
+    #5736a3 54.28%,
+    #4b2a99 78.99%
+  );
+  border-radius: 50%;
+}
+
+.textWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 36px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24.38px;
+  color: rgba(235, 216, 255, 1);
+}
+.tweets {
+  margin-bottom: 16px;
+}
+.followers {
+  margin-bottom: 26px;
+}
+.btn {
+  width: 196px;
+  height: 50px;
+  padding: 14px 28px;
+  background: #ebd8ff;
+  box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
+  border-radius: 10.3108px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}
