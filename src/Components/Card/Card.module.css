@@ -4,7 +4,7 @@ p {
 .Wrapper {
   width: 380px;
   height: 460px;
-  padding-top: 28px;
+  padding-top: 20px;
   border-radius: 20px;
   position: absolute;
   background: linear-gradient(
@@ -25,13 +25,13 @@ p {
   height: 168px;
   margin-left: 36px;
   position: relative;
-  top: -15px;
   background-image: url("/src/Images/BG2.png"),
     linear-gradient(114.99deg, #471ca9 -0.99%, #5736a3 54.28%, #4b2a99 78.99%);
 }
 .Logo {
   width: 76px;
   height: 22px;
+  margin-left: 20px;
   position: absolute;
   z-index: 2;
   opacity: 20%;
