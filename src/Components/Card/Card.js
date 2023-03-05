@@ -38,7 +38,9 @@ export default function Card() {
         </div>
         <div className={css.textWrapper}>
           <p className={css.tweets}>{tweets} TWEETS</p>
-          <p className={css.followers}>{value} FOLLOWERS</p>
+          <p className={css.followers}>
+            {value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")} FOLLOWERS
+          </p>
           <button
             type="button"
             className={css.btn}
